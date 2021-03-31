@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/afroza-portfolio/static/css/main.531f18b2.chunk.css",
+    "main.js": "/afroza-portfolio/static/js/main.b290887d.chunk.js",
+    "main.js.map": "/afroza-portfolio/static/js/main.b290887d.chunk.js.map",
+    "runtime-main.js": "/afroza-portfolio/static/js/runtime-main.a429fb98.js",
+    "runtime-main.js.map": "/afroza-portfolio/static/js/runtime-main.a429fb98.js.map",
+    "static/css/2.242f24fe.chunk.css": "/afroza-portfolio/static/css/2.242f24fe.chunk.css",
+    "static/js/2.27a06324.chunk.js": "/afroza-portfolio/static/js/2.27a06324.chunk.js",
+    "static/js/2.27a06324.chunk.js.map": "/afroza-portfolio/static/js/2.27a06324.chunk.js.map",
+    "index.html": "/afroza-portfolio/index.html",
+    "precache-manifest.73f096d8f57c23f2aa1f8550844110e2.js": "/afroza-portfolio/precache-manifest.73f096d8f57c23f2aa1f8550844110e2.js",
+    "service-worker.js": "/afroza-portfolio/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/afroza-portfolio/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.531f18b2.chunk.css.map": "/afroza-portfolio/static/css/main.531f18b2.chunk.css.map",
+    "static/js/2.27a06324.chunk.js.LICENSE": "/afroza-portfolio/static/js/2.27a06324.chunk.js.LICENSE",
+    "static/media/earth.jpg": "/afroza-portfolio/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/afroza-portfolio/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/image1.jpg": "/afroza-portfolio/static/media/image1.768998c6.jpg",
+    "static/media/image2.jpg": "/afroza-portfolio/static/media/image2.8de6195d.jpg",
+    "static/media/image3.jpg": "/afroza-portfolio/static/media/image3.28470933.jpg",
+    "static/media/image4.jpg": "/afroza-portfolio/static/media/image4.0b37f434.jpg",
+    "static/media/image5.jpg": "/afroza-portfolio/static/media/image5.8d16c4af.jpg",
+    "static/media/image6.jpg": "/afroza-portfolio/static/media/image6.62b7cc75.jpg",
+    "static/media/ionicons.css": "/afroza-portfolio/static/media/ionicons.621bd386.svg",
+    "static/media/male.png": "/afroza-portfolio/static/media/male.a82ab1cd.png",
+    "static/media/male1.png": "/afroza-portfolio/static/media/male1.3ec3891b.png",
+    "static/media/myImage.png": "/afroza-portfolio/static/media/myImage.bd80794f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a429fb98.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.27a06324.chunk.js",
+    "static/css/main.531f18b2.chunk.css",
+    "static/js/main.b290887d.chunk.js"
+  ]
+}
